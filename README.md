@@ -1,2 +1,2 @@
-# graficos
-Logos y Otros Artefactos gráficos
+# Gráficos
+Logos y otros artefactos gráficos.
